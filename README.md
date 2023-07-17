@@ -24,7 +24,7 @@ The Modal Window project creates a modal window that can be triggered by three d
 
 ## Getting Started 🚀
 
-1. Clone the repository: `git clone https://github.com/your-username/modal-window-project.git`
+1. Clone the repository: `git clone https://github.com/fixmanish/modal-window.git`
 2. Open the index.html file in your preferred web browser.
 3. Interact with the modal window and explore its functionality.
 
