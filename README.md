@@ -4,7 +4,7 @@
 
 This Modal Window project is a part of the JavaScript Bootcamp taught by Jonas Schemdtmann on Udemy. The project focuses on DOM manipulation and provides an interactive modal window experience for users.
 
-You can access it here - 
+You can access it here - https://fixmanish.github.io/modal-window/
 
 ## Project Overview 📝
 
